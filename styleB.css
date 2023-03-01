@@ -1,0 +1,97 @@
+body {
+    width: 500px;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(182, 197, 190);
+}
+
+form {
+    position: fixed;
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+button {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: x-large;
+    border-color: lightslategray;
+    border-width: 3px;
+    margin: 10px
+}
+
+article {
+    position: fixed;
+    margin-top: 60px;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(36, 52, 44) ;
+    margin-left: 5px;
+}
+
+p {
+    margin-left: 30px;
+    font-size: large;
+}
+
+
+table, tr, td {
+    background-color: rgb(182, 197, 190);
+    table-layout: auto;
+    width: 300px;
+    border: 2px solid rgb(36, 52, 44);
+    font-size: medium;
+    margin: 10px;
+    margin-top: 30px;
+    margin-left: 40px;
+    column-rule: 2px;
+}
+
+table, tr, th {
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(36, 52, 44);
+}
+
+a {
+    color: rgb(36, 52, 44);
+    margin: 10px;
+    margin-left: 80px;
+}
+
+a:visited {
+    color:rgb(255, 255, 255);
+}
+
+a:hover {
+    color:lightslategray;
+}
+
+a:active {
+    color:purple;
+}
+
+#o {
+    font-size: 100px;
+    color: rgb(184, 40, 0);
+    position: fixed;
+    margin-top: 380px;
+    margin-left: 50px;
+}
+
+#s {
+    font-size: 100px;
+    color: black;
+    position: fixed;
+    margin-top: 450px;
+    margin-left: 150px;
+}
+
+#u {
+    font-size: 100px;
+    color: grey;
+    position: fixed;
+    margin-top: 520px;
+    margin-left: 250px;
+}

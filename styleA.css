@@ -1,0 +1,52 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgba(255, 140, 98, 0.665);
+    font-size: large;
+    color: white
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(184, 40, 0);
+}
+
+button {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    background-color: rgb(184, 40, 0);
+    color: white;
+    border-color: rgb(184, 40, 0);
+}
+
+table, tr, td {
+    background-color: rgb(184, 40, 0);
+    table-layout: auto;
+    width: 385px;
+    border: 2px solid rgb(184, 40, 0);
+    font-size: large;
+}
+
+table, tr, th {
+    background-color: rgba(255, 140, 98, 0.665);
+}
+
+a {
+    color: rgb(184, 40, 0);
+    font-size: x-large;
+    margin-left: 20px;
+}
+
+#o {
+    font-size: 100px;
+    color: rgb(184, 40, 0);
+}
+
+#s {
+    font-size: 100px;
+    color: black;
+}
+
+#u {
+    font-size: 100px;
+    color: grey;
+}
